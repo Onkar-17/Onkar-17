@@ -1,8 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Onkar Gupta</h1>
 <h3 align="center">An enthusiastic programmer at heart.</h3>
-<img align="left" alt="Coding" width="300" height="300" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif"/>
-<!-- ![image-asset](https://user-images.githubusercontent.com/121238633/226196509-fd39900f-fd2a-4676-b40b-7b449763bd50.gif) -->
+<img align="right" alt="Coding" width="400" height="400" src="https://github.com/onkar-17/onkar-17/blob/main/image-asset%20(1).gif"/>
 
 - 🔭 I’m currently working on **DSA**
 
